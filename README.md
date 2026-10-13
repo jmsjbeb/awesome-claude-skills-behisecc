@@ -234,6 +234,8 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [decision-scout](https://github.com/jmsjbeb/decision-scout) - Scouts the map before you decide: asset audit, 3-5 unconventional paths with tri-perspective review, three-axis scoring, and a 30-day action plan. Ships a zero-dependency HTML dashboard tool.
+
 
 ## 📰 Articles & Blog Posts
 
